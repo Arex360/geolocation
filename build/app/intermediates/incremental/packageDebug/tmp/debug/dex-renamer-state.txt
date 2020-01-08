@@ -1,0 +1,4 @@
+#Wed Jan 01 21:34:09 PST 2020
+base.0=C\:\\Users\\Arex\\Desktop\\maps\\zip\\ja\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
